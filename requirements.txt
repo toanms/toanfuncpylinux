@@ -1,0 +1,3 @@
+requests
+applicationinsights==0.11.7
+
